@@ -1,0 +1,24 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=stm8l10x_lam_init\stvd\cosmic\stm8l10x.stp
+Dependencies=
+
+[Project1]
+Filename=stm8l10x_bootloader\stm8l10x_bootloader.stp
+Dependencies=
+
+[Project2]
+Filename=stm8l10x_fw\stvd\cosmic\stm8l10x_fw.stp
+Dependencies=
+
+[Project3]
+Filename=stm8l10x_lam_init_test\stvd\cosmic\stm8l10x_lam_init_test.stp
+Dependencies=
+[Options]
+ActiveProject=stm8l10x_fw
+ActiveConfig=Debug
+AddSortedElements=1

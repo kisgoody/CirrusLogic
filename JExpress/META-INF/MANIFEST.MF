@@ -1,0 +1,1047 @@
+Manifest-Version: 1.0
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/packet.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: h0NNOwC6crM40TZP9xNZWPZj+sk=
+MD5-Digest: YFYCMg6VvLvRRI01vWyEtQ==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Digest-Algorithms: SHA MD5
+SHA-Digest: s2nmKMu0QgiV2+8L4ENbSfj/mfo=
+MD5-Digest: mJbaWlS/O2KlK4+l8qEApg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/TAGS.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: bMv1PF7Im3DqyYva6QJIu6bzHd4=
+MD5-Digest: T98gGhJngFgJm4/S9i0Zmw==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Base.lproj/Main.storyboard
+Digest-Algorithms: SHA MD5
+SHA-Digest: ujQ/QmPb91+u1Y723X7gfmPLm9A=
+MD5-Digest: hd7q5YhKt8YOOMYLGTZ4oA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/TAGS.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: LmPim69nF0mu9lqMAdMceQU25Lw=
+MD5-Digest: SkiXzLtHsQVNRkkG3qG6EQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/stm8_interrupt_vector.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: 6SVpbtqFa9DuBtRYNLw+nWUIZd8=
+MD5-Digest: dIEVfVrOD7G9uJC3/AcCsA==
+
+Name: CRD42L42-MFi/MCU Firmware/stm8l10x_bootloader_fw_option_byte.s19
+Digest-Algorithms: SHA MD5
+SHA-Digest: BLZpaEuDIGZbt1jRjUw4yj9Dx6U=
+MD5-Digest: tHk8liJAS7gX6N1yrcjZ4w==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_comp.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: fl7QVFkCMnY5tg5y8OfOel84gLA=
+MD5-Digest: YvvY0JLd1j54c2VZTIBuXw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/readme.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: Wi3GzZw79KSEe60+tWXO8JymlR4=
+MD5-Digest: JgnpzIiyN2KsoHO/QKIK9A==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/TAGS_Filelist.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: I6jbQc2gbwlCqSFPEKpcN4lLr2o=
+MD5-Digest: c0Wv+oNr0jbmF28yb2Ynmg==
+
+Name: CRD42L42-MFi/PCB/CRD42L42-MFi_Rev_A_GERBERS.zip
+Digest-Algorithms: SHA MD5
+SHA-Digest: Bcl1Ord2RxJmnvRuBZ2/tP5dlvg=
+MD5-Digest: 9GH6Y7L9FB0ZA9f5BrK2aw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8l10x_bootloader_Programmer/stm8l10x_bootloader_STVP.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: jyh4wcmT80/D8yKlTe5cP889wnI=
+MD5-Digest: z5mlqr5x8hjVKs2J/0Aq6w==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-60@3x.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: PB8W2uLI6hOj7JP6yzT9HyLZ9Rs=
+MD5-Digest: uXm2xHiRZzLMuCVerdXL8A==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8l10x_bootloader.dep
+Digest-Algorithms: SHA MD5
+SHA-Digest: nS4yQKSdfdKShMXU6UNnYdsOZ4Y=
+MD5-Digest: nEDZpccfBZL9BHnpgZis4g==
+
+Name: CRD42L42-MFi/PCB/CRD42L42-MFi_Rev_A2_PL.pdf
+Digest-Algorithms: SHA MD5
+SHA-Digest: Ub3ZESF818Kn4BNgFV7A4l/E0pA=
+MD5-Digest: p3ICKXVC3Dk6gJ/deT7wFA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8l10x_bootloader.pdb
+Digest-Algorithms: SHA MD5
+SHA-Digest: BVzNfk/coT2JBHF7DmRvlNionEU=
+MD5-Digest: f0oW9hvIAgzBR+qHaon+8w==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo.xcodeproj/xcuserdata/vkulikov.xcuserdatad/xcschemes/xcschememanagement.plist
+Digest-Algorithms: SHA MD5
+SHA-Digest: P3Tlji60PCVOeQk+a8054WKWkjo=
+MD5-Digest: kGuxvJlW4rm11unFkHLjdg==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_i2c.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: unOlhlAnhaSRRFXwO0v4dQkuOZI=
+MD5-Digest: eR/7pHyiwtncNkGQeV6g9Q==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo.xcodeproj/project.xcworkspace/xcuserdata/vkulikov.xcuserdatad/UserInterfaceState.xcuserstate
+Digest-Algorithms: SHA MD5
+SHA-Digest: j9bATNYbPOhJaAWv7zVtLZNbzS8=
+MD5-Digest: oBFrKwyEDXUs637ZT5o03g==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/stm8l10x_it.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: Rf/Z07EXMn6GETzWveHa1u6UBnI=
+MD5-Digest: iRlO/wv0oyygvvMKXwd1hg==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_exti.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: U2zgd9r6TkVwMHMQfzevTQ9YV1s=
+MD5-Digest: mblq+lQKw6dkSfpVhG4h8g==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/stm8l10x.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: vS3czPfcx6vXSFvgYs7n/RYfrts=
+MD5-Digest: 4Dfdgr6bo8N7aRlLkW0P2w==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/stm8l10x_it.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: NfA/Hs4dTTAkjJttT7iQsw+o+1s=
+MD5-Digest: +nLwFyBniOkU6A8djFUovg==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/CLEAProtocol.swift
+Digest-Algorithms: SHA MD5
+SHA-Digest: 0m4t/BVREmDukoUpT/Omud/UYpI=
+MD5-Digest: r6xvZqAnI0aPjQfYPGGRsw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/checkres.spy
+Digest-Algorithms: SHA MD5
+SHA-Digest: lx9D+vvFqC9HP64yxU9gn90xCuo=
+MD5-Digest: RwPLyGO36bOGs4wh+xgB+Q==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/Debug/stm8l10x_LAM_init.sm8
+Digest-Algorithms: SHA MD5
+SHA-Digest: R1u3q1U/cqrpG4/2sxg28KOWXf0=
+MD5-Digest: zrzwRaC5C862WmbunqziiQ==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_awu.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: L/Z8ps7FT7YfvrD8RTXOOVuarhc=
+MD5-Digest: vcMTnja6bQjYAXgCtcWrUQ==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_rst.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: qG19yPzQDeUazinp1oMMDzBHTCk=
+MD5-Digest: +yirT+vOT1kHo+vYsKmpJw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/Debug/stm8l10x_fw.s19
+Digest-Algorithms: SHA MD5
+SHA-Digest: ntoy9LfQz6XjkXNMEWG1dX0Aa1s=
+MD5-Digest: 09I8ewSlcEHnSnwnZzDc3w==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/readme.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: Wi3GzZw79KSEe60+tWXO8JymlR4=
+MD5-Digest: JgnpzIiyN2KsoHO/QKIK9A==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_beep.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: VuFg/+33NYhf+LDz2UvDLTvH2wk=
+MD5-Digest: 17WvIHzm/1774I7krd+CsA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/Debug/stm8l10x.lkf
+Digest-Algorithms: SHA MD5
+SHA-Digest: uzUzU06rm28Vi/WNtg6KtPKZGjQ=
+MD5-Digest: OrENz9Q3MSECOPHt8I0DuA==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/DeviceViewController.swift
+Digest-Algorithms: SHA MD5
+SHA-Digest: fCBUIyXlc0bwkjskVoSFrtD3TSI=
+MD5-Digest: pp2T4q9tFCHFbHOrGRSemQ==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo.xcodeproj/xcuserdata/vkulikov.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+Digest-Algorithms: SHA MD5
+SHA-Digest: C7l+e4oX17GFQUb6sFTYCBZM/8o=
+MD5-Digest: jwjODbh6zcFuf+lsQd4DyA==
+
+Name: CRD42L42-MFi/Documentation/CDB42L42-MFi_DS1133RD3.pdf
+Digest-Algorithms: SHA MD5
+SHA-Digest: VYT5TvDkwkuoIJu/wjz995enSJk=
+MD5-Digest: N+YeEK6hoEphM/ZZJKO9nA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/Release/stm8l10x_bootloader.s19
+Digest-Algorithms: SHA MD5
+SHA-Digest: 8VzkIsF0YUhGhbOSPDrN/bBj8Mo=
+MD5-Digest: aADk8SWgPe/ItWaYKStVCw==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/stm8l10x_fw.s19
+Digest-Algorithms: SHA MD5
+SHA-Digest: rY/JtrW3RHVKIcmtJUGCZdgsNo4=
+MD5-Digest: hKb8momOCPr1rqfFMclU3A==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/stm8l10x_Programmer/stm8l10x_STVP.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: Bbf6wRBVXHNWuBLOu1q4H/6nB1M=
+MD5-Digest: 8c0CBh+e42qKthF0fufqbw==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_flash.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: gcWdS1g4e6jAKCWm3OINkCjejS4=
+MD5-Digest: eCqAr0Y/MeRwmCKfI00iGw==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_tim3.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: OomZ2icLPYGC4g6iYn7vMNpOLYc=
+MD5-Digest: ute6w2zCHkB/gl+e148VMg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/stm8l10x_it.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: Rf/Z07EXMn6GETzWveHa1u6UBnI=
+MD5-Digest: iRlO/wv0oyygvvMKXwd1hg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/project.wed
+Digest-Algorithms: SHA MD5
+SHA-Digest: QiyGlK5IluQCYCxZ0B1TgmbpObE=
+MD5-Digest: w8cyXGuVe+E3EL6RsNr66w==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/stm8l10x_it.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: 7YDoD/S4AhiWHgi/CrkvsBBdvNA=
+MD5-Digest: 6sosqvHAihQM93/XlNMmgA==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_irtim.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: UudolIKAVhV21qMtUbZYCfmPAjw=
+MD5-Digest: C+1s4f9oQsgn5gvhYXFFyA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8l10x_bootloader.stw
+Digest-Algorithms: SHA MD5
+SHA-Digest: iVx4dBz1SxTBtwjvEpnDv+52F2k=
+MD5-Digest: B9Df/M0n0VXhFDT8c9BrQQ==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/chip.imageset/Contents.json
+Digest-Algorithms: SHA MD5
+SHA-Digest: NTmqGXlVphKlBcNffZH0ZwoHBfs=
+MD5-Digest: zWHx51P/SaXGBdJd+PBYCw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/Debug/stm8l10x_LAM_init_test.s19
+Digest-Algorithms: SHA MD5
+SHA-Digest: s9BYckGojsaDeb58YGtJHZmk3ls=
+MD5-Digest: 0KPJ6aVT7cpGBcqnPHAIyQ==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-40@2x.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: dafSrmcmVQHRhQeH89vOERwU5EU=
+MD5-Digest: 4dWgj1eDpN/DmM2Vn2rqxw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8l10x_bootloader.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: yOaEjUPhjeWhz4tg/4Obp61TqYY=
+MD5-Digest: Ix/bZ9y7uGrAjsBA6riEmw==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_iwdg.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: io9fQYf+/3tsizAtRf1n1sLlQng=
+MD5-Digest: rTqcN+SWKFmk98XMayzpxA==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_i2c.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: OtWaz7dkMyNH1m6j5G2N0CVrE9o=
+MD5-Digest: IXcGpOiGg+64oeDEK7qboQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/packet.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: VZYLsHKI7xfT2TN19qCaf7/drU8=
+MD5-Digest: hvt4YIOVPR0b4G7UL0Nj8w==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_usart.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: iXPiLp2X59lHR46LVc2sSVHZNbs=
+MD5-Digest: 6oyRLVN2BNBM30dfIj+bVA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/packet.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: 0P8DQ/thE3GuL36bdFE49uynAt8=
+MD5-Digest: bEaL2N6WvRY9WVUvKyXncQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/TAGS.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: cJcr6fPY9ePfxaeBTokhWRzW/N8=
+MD5-Digest: +lDNQ3xN46HX1+DqNSHwAw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/project.stw
+Digest-Algorithms: SHA MD5
+SHA-Digest: O05cUzlbqqklHlwGx8cYQbuQ1rU=
+MD5-Digest: 6OqkbxZnLp2d71/+q109qA==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/Default-568h@2x.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: Q2AMN7ExNpYi5WOrY+TbZ5Q2MAk=
+MD5-Digest: PJmMskBuVeZsgZjEp2l6yg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/serial.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: POOxMlVBQqR0ROWsKgk9vh2fhck=
+MD5-Digest: zMXueDXSJ1v351z1dv3qkQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/system.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: bCMdcgZs1RKH8Rln+875nCfJplA=
+MD5-Digest: XGtUNo7Gswk8GfArDuSKow==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-29@2x.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: W2oA1w4xA3rfD7Ft7KAbPmpHf9E=
+MD5-Digest: CRm191oYcoaT2YFpDh3MlQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/project.wdb
+Digest-Algorithms: SHA MD5
+SHA-Digest: GcRDFNIlpymLpty4s+SG8cHQxqA=
+MD5-Digest: qpE27kc/J+FNcIvplMiMIQ==
+
+Name: CRD42L42-MFi/MCU Firmware/common/dev_config.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: ZOVwiglUodtHr664mHxCjyQz8qo=
+MD5-Digest: DkvcVBFfWQQurdTNRwx4Cw==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_clk.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: U06OXxc1qCovdvTzt9VkZNPDE3Q=
+MD5-Digest: wHv7mWG88FNssRSXH0wN/g==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/i2c_master_poll.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: 4Zw4jb3nqMagPmLoXy/ML9/VyNc=
+MD5-Digest: 2KSjVwESsNrUEkhL9mh5bw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/serial.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: EvxyYUvgForUxVUeJr3fpa0YZH0=
+MD5-Digest: mELg4EXd5W1nGU45tfcNYA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8_interrupt_vector.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: +H0IN+3IlqKF9fxNAKGRn+3pHV0=
+MD5-Digest: CzY9HAH7Ezyshc3HrOCM9A==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/system.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: e4JyZ6uh0RCx0GBiZayyDghg9s4=
+MD5-Digest: bYz1+s2y2eS/r71NFfH43g==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_awu.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: bvi1o0KzKsfDwUUJ3vFK/EiqOuc=
+MD5-Digest: vvwOLNGTw5GJR9OoL/nClQ==
+
+Name: CRD42L42-MFi/MCU Firmware/common/dev_config.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: ADcF0vT36YBbruS1LRpX1KMMgqQ=
+MD5-Digest: 6RA4NM7N7saBTsIzOHQpkw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/i2c_master_poll.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: gY6WaQssn3XFKihX6BbHIdzCIe8=
+MD5-Digest: TJPAyzO7m65DDYihsxW9eA==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo.xcodeproj/project.pbxproj
+Digest-Algorithms: SHA MD5
+SHA-Digest: UKP65gk9bYyVEU3oSDe4SpRc9II=
+MD5-Digest: Vc+5BMx9Rr0XSN+HcBD2iA==
+
+Name: CRD42L42-MFi/MCU Firmware/stm8l10x_FW_Programming.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: akCc7arrL3MsY+ObgmRRnEpwMV0=
+MD5-Digest: jJXsauTY0kOyKGZ9MXkHGw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/stm8l10x_fw.dep
+Digest-Algorithms: SHA MD5
+SHA-Digest: nLZv6ry5FIPEWFVPZn+yaxvlUlI=
+MD5-Digest: Viwk1HB/9nWl2zbLfUD8XQ==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_comp.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: SGWHzL6MRk7tBFwdvMIP+gqWWPg=
+MD5-Digest: ypV3LigqLz7332s0usvjdQ==
+
+Name: CRD42L42-MFi/MCU Firmware/common/version.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: NjWPsCa7BYXiYJMs9C/IRSfr6O0=
+MD5-Digest: mEPHQWtlL3sgcTAwwe8Zig==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/CLEADevice.swift
+Digest-Algorithms: SHA MD5
+SHA-Digest: foMLOtR8wlqRd5FsuQkh97UEaek=
+MD5-Digest: 3FFujALQoXDfaYBAJdgTCA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/serial.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: POOxMlVBQqR0ROWsKgk9vh2fhck=
+MD5-Digest: zMXueDXSJ1v351z1dv3qkQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/stm8l10x_it.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: Rf/Z07EXMn6GETzWveHa1u6UBnI=
+MD5-Digest: iRlO/wv0oyygvvMKXwd1hg==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/Contents.json
+Digest-Algorithms: SHA MD5
+SHA-Digest: Yk4quB7W9gNQWeYqHrf1Zhl1JW4=
+MD5-Digest: Mcxo80k0qZwLDBvr3lYwnA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8_interrupt_vector.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: HVvwyea8EB5EzbyMBIYfJCEtqMc=
+MD5-Digest: FiSUgzTwrc9CpdiVQsIUKw==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_exti.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: fOsmQy7KiXCB7y8sF0SeqhEXV08=
+MD5-Digest: 98UTdw3d9byJmx3GpA2HAQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/serial.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: LW0EYrZDdi7K2eU19Rx2lM1meHE=
+MD5-Digest: nija0ov6d65xg2f4fsNiog==
+
+Name: CRD42L42-MFi/MCU Firmware/stm8l10x_LAM_init_Programming.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: RMPiCYyFWjAOYvlsbqdDLCowjxE=
+MD5-Digest: Nu+/+mtn/ZYLx0OyUWGNXA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/stm8l10x_it.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: NfA/Hs4dTTAkjJttT7iQsw+o+1s=
+MD5-Digest: +nLwFyBniOkU6A8djFUovg==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: k8VDRYhwVUKC04LFA8p2Vm7+Ry8=
+MD5-Digest: M4hmQXnqEdyeKZrp6O9CmQ==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_itc.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: VhXH6+3zFk5NXda9+ndZXEA8nkI=
+MD5-Digest: XuFTFWxKsW0hwgvC/hEXMw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/Debug/stm8l10x.s19
+Digest-Algorithms: SHA MD5
+SHA-Digest: BldNwgun5CcVC6XPhffyx84O8Lg=
+MD5-Digest: 8bJ0Cy0QwcpYGd27gNgqsg==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_wfe.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: k64ZEM7QAQCYXus8NfZWsPPu9TQ=
+MD5-Digest: 8/uGSPdDBkJNQd51TMERpg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/main.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: 5UVXbulLEyGwp5/heyC3cKs2XAE=
+MD5-Digest: TD0IIDXIcPHXQWSHuw8rVg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8l10x_bootloader_Programmer/stm8l10x_bootloader_STVP_OPTION BYTE.hex
+Digest-Algorithms: SHA MD5
+SHA-Digest: fsIYz+kVOGSaQKloypbDrroKiOo=
+MD5-Digest: Agldx2+dgVIICgshFwG16g==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Info.plist
+Digest-Algorithms: SHA MD5
+SHA-Digest: ZSgmQXZMjlVjsjtIAEKLRxVLEiA=
+MD5-Digest: PGzpc8mGHHKpaya0ZSHFXA==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Contents.json
+Digest-Algorithms: SHA MD5
+SHA-Digest: 2LrJxdYg00hfsirFARTRDHEMF4g=
+MD5-Digest: wkiiboVtB4pqCKZw27Irqg==
+
+Name: CRD42L42-MFi/PCB/CDB42L42-MFi_Rev_B_sch.pdf
+Digest-Algorithms: SHA MD5
+SHA-Digest: oN7b9E2z6ZjWFlyg61eC81Jr4/g=
+MD5-Digest: CdFiSGE4eY/o1R5DOc70pg==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_clk.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: Fe1Khb9ti8qW9zTFQZaMLR+DR38=
+MD5-Digest: uxENOeckszcMb44lLPXBUg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8l10x_bootloader.wed
+Digest-Algorithms: SHA MD5
+SHA-Digest: hFbHYA7nhV2jRR88GgWb9CTwQIE=
+MD5-Digest: +BCiSUR4GyfY9fljl1SZBw==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_gpio.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: c+Q4Tl007MVGOG5+ccf+Qxkq/m0=
+MD5-Digest: bynhDNZzINQyBZf/4saiqg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/checkres.spy
+Digest-Algorithms: SHA MD5
+SHA-Digest: EuT9E+CIWLoG9jATqvrNI4Vb6dA=
+MD5-Digest: W204+mlo7EHZ1TJyWtMZ4g==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/system.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: 21EtsI4hT7ox4Ehz1tTtdXncQBs=
+MD5-Digest: q8NeWyW0lfXsDwWl2yiCyw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STM8L10x_StdPeriph_Templates.7z
+Digest-Algorithms: SHA MD5
+SHA-Digest: wpSVnbyWygYftyQ75atnNfYUkSs=
+MD5-Digest: epXfBeXG7El1AvfdZVIS4Q==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-29.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: x04tNelbx78KgfyIru5Sj1wzmc0=
+MD5-Digest: ST2kJ/L4Atp74YhETJye7A==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_tim3.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: 6eCMZobAAOUGj39YWTbxlYqJeyE=
+MD5-Digest: Th2b5JHeGyrfhmq25Kqb/w==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/system.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: o3ts+a/0EV8Jg2H4mcJudJTXjiw=
+MD5-Digest: LUjfHA7EJZQPfs4ZLV53FA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/stm8l10x_fw.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: jV+gAoo71AYAjpqCiuQboFehxw4=
+MD5-Digest: pAcblZFeLwvKDlxMAP80ww==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-29@2x-1.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: W2oA1w4xA3rfD7Ft7KAbPmpHf9E=
+MD5-Digest: CRm191oYcoaT2YFpDh3MlQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/stm8l10x_Programmer/stm8l10x_STVP_OPTION BYTE.hex
+Digest-Algorithms: SHA MD5
+SHA-Digest: hrjQhPdmPeicHwoSeK6Rbabsi0Y=
+MD5-Digest: 2vP6eRVJ5kfx335MUSCaHw==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-40@3x.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: Z0hZp50FUWN2QTvx3WmU9NjpQus=
+MD5-Digest: Y9QXp9cwRSglzkLLdWDaNw==
+
+Name: CRD42L42-MFi/Documentation/CRD42L42-MFi Quick Start Guide.pdf
+Digest-Algorithms: SHA MD5
+SHA-Digest: 1IWagHKQm9Dde07eF3NpVhG39qI=
+MD5-Digest: WHQNl2DZKCD3RoKvHtGCbA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/project.wed
+Digest-Algorithms: SHA MD5
+SHA-Digest: hleVij8YBxwiCj8r7sr2ljOKDC4=
+MD5-Digest: e0uF6cVn3CYV4wgzNFl/GA==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-40.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: vsKr9x6l0OLKhXmVFmKyv67VAjA=
+MD5-Digest: CmKHtuqH0mEXhnojj+m1xw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/project.stw
+Digest-Algorithms: SHA MD5
+SHA-Digest: O05cUzlbqqklHlwGx8cYQbuQ1rU=
+MD5-Digest: 6OqkbxZnLp2d71/+q109qA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/main.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: X7Hmkb0Q9RKWqiX+jBtycGPHczw=
+MD5-Digest: N1A3gijDXwUuv9yGXzO6Bg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/stm8l10x.dep
+Digest-Algorithms: SHA MD5
+SHA-Digest: PRvgfjZ13uTQkEnr4piaSQy/HRs=
+MD5-Digest: yo6uAhUjBS5JJb52yojMaw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8l10x_bootloader.wdb
+Digest-Algorithms: SHA MD5
+SHA-Digest: GXX3PiHjnrLg+yn5wAbcSOd8q/s=
+MD5-Digest: 5AHmyTO25Sm1M517Kk7fMQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8l10x_LAM_init_test_Programmer/stm8l10x_LAM_init_test_STVP_OPTION BYTE.hex
+Digest-Algorithms: SHA MD5
+SHA-Digest: hrjQhPdmPeicHwoSeK6Rbabsi0Y=
+MD5-Digest: 2vP6eRVJ5kfx335MUSCaHw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/stm8l10x.pdb
+Digest-Algorithms: SHA MD5
+SHA-Digest: jHyKRjsBUzULqSH7w1LND+20HJo=
+MD5-Digest: MQ1yKs/tBAt4bl9odRfLlQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/stm8l10x_conf.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: o0+50q0qPbYDUe7DhiOnAZF3nv0=
+MD5-Digest: nv6UqjKv/4ykC86pMhdtJA==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_irtim.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: MWPo1z7N3v1p/3QuEuXYglGevdc=
+MD5-Digest: FwTmBNevRMBQY44zRT9AEw==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-29@3x.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: v16EyhkckkO80hhVu8XtiHVsPoA=
+MD5-Digest: QoqepJzUPIJ5p6Csc/klVw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/stm8l10x_LAM_init.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: OL6u7uy5KRNsTKXLC+XwmkfgJS0=
+MD5-Digest: KUHQMXlMjjmTunb4IxKTwA==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/cirrus-logic-490x100.imageset/Contents.json
+Digest-Algorithms: SHA MD5
+SHA-Digest: dP1HxUtc6GXL4CDl0Cc+KZlvJr4=
+MD5-Digest: 5eC2MaNldmI1JSMey+E1Ew==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_itc.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: 2bvoDfgyldDIqkzjjtv4fPjD9hk=
+MD5-Digest: iLDzykMF7eQdpnG7kHMcFQ==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_wfe.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: hKqXqCFHg/DTnvGyck37wVoYHQU=
+MD5-Digest: r3EZSn9vhQznkx6j6julVw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8l10x_LAM_init_test.dep
+Digest-Algorithms: SHA MD5
+SHA-Digest: 7wPOoiXDyhz3ZXUGOJzZdF4hmbA=
+MD5-Digest: JZfM2bgDo6ILt91lIUgeGw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8l10x_LAM_init_test_Programmer/stm8l10x_LAM_init_test_STVP.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: f8RCE49aiT81HVlYHERa6i0Tv7I=
+MD5-Digest: YV/TwyBHzE+3TUdbC5Mnkg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/checkres.spy
+Digest-Algorithms: SHA MD5
+SHA-Digest: ekCeuag5agn9LwuuGZL7wLbH5rU=
+MD5-Digest: ZWYkRoZ+MwJiKQ+kg1tCIg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/i2c_master_poll.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: 4Zw4jb3nqMagPmLoXy/ML9/VyNc=
+MD5-Digest: 2KSjVwESsNrUEkhL9mh5bw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/project.wdb
+Digest-Algorithms: SHA MD5
+SHA-Digest: y9Z3v381DvwkUrk77ecyGoL3n0c=
+MD5-Digest: ED+KHwsSvtrxZJgZKRWpZA==
+
+Name: CRD42L42-MFi/MCU Firmware/stm8l10x_fw_option_byte.s19
+Digest-Algorithms: SHA MD5
+SHA-Digest: aDLSJF4bqqzffWTBfUcgESCgv+I=
+MD5-Digest: GQj25jjgfAx8mi/tX72r+g==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/stm8l10x_conf.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: o0+50q0qPbYDUe7DhiOnAZF3nv0=
+MD5-Digest: nv6UqjKv/4ykC86pMhdtJA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/i2c_master_poll.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: gY6WaQssn3XFKihX6BbHIdzCIe8=
+MD5-Digest: TJPAyzO7m65DDYihsxW9eA==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-76.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: UyHTgQtia4VrdsVrZJ0Q/rt+lxY=
+MD5-Digest: h5J5a7Wl/RlRcUPibI/dog==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/AppDelegate.swift
+Digest-Algorithms: SHA MD5
+SHA-Digest: CJIlkAYMszROX7zab+mBmTZ8dTQ=
+MD5-Digest: o5i1HhQA+zN9tN+Hg0cFKA==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo.xcodeproj/xcuserdata/vkulikov.xcuserdatad/xcschemes/CRD42L42-MFi-Demo.xcscheme
+Digest-Algorithms: SHA MD5
+SHA-Digest: gPX5+rWuKjNjIvpvyrEuZyukciE=
+MD5-Digest: 1Kyyke7edzmDD8pzjS6+Dw==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/chip.imageset/chip.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: /wDEtAlUKUwn+U7Q2GHj8oTBX9M=
+MD5-Digest: 7RsomAd8Uxrh23qiqcKT1Q==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/main.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: GYilc3rcCPBIealJkgqfELwhy00=
+MD5-Digest: RBvSLQyMjikf3Bv5jhI0zg==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/info.imageset/info.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: Le+Ik9TI5hKL+O4tOgfb9Gyehfc=
+MD5-Digest: EDRn2DUfqFPE4SZZhAkr5A==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_spi.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: Nb5BF5N+zyngAJmRgphga0/2zLQ=
+MD5-Digest: wOLscfqx/BdzaBlO3J+BSA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/stm8l10x.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: XRWMxFlr6AakYWvl3yGGG0V0b48=
+MD5-Digest: BOrQEiYighhlwYM4dlh37g==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_tim4.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: xZTYeUWWK6Fp+3WcbqDF+OxvDaI=
+MD5-Digest: nkhoRqRWVa3nzaJueafyzw==
+
+Name: CRD42L42-MFi/Documentation/AN419_RC2.pdf
+Digest-Algorithms: SHA MD5
+SHA-Digest: d0SdAdlGfa+kGho13qlL7/dDHGw=
+MD5-Digest: KD1lpEu9nc8/BWunrZMm5Q==
+
+Name: CRD42L42-MFi/PCB/CRD42L42-MFi_REV_A_LAYERS.pdf
+Digest-Algorithms: SHA MD5
+SHA-Digest: Eo5azhYkM/dYvq3H6vW5JkaxdEc=
+MD5-Digest: V73TIalEdZRW+pSFALA7Kg==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_tim2.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: vacEGzHRXPk7bUVWt+HEDpDF3qU=
+MD5-Digest: CrVm6fgYPiSjeE3FpX887A==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8l10x_LAM_init_test.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: SX5/AN3n4nAR+1y3xWELP66O7+g=
+MD5-Digest: 4LqR0VD9IatLwTAVAxDEKg==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/AboutViewController.swift
+Digest-Algorithms: SHA MD5
+SHA-Digest: j3znBqyA33wF0q9r4n3wcv6Hkgs=
+MD5-Digest: G6i+1ic0WFI9AZX7lFyHEA==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_gpio.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: Rb3hmU9A8KCayAJRfE9rd3+b5to=
+MD5-Digest: Flk29jlXEA9/c7MTzCBwdA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/Debug/stm8l10x_bootloader.lkf
+Digest-Algorithms: SHA MD5
+SHA-Digest: xrCNfgsgN2ATSmmLCAKc7qYod6s=
+MD5-Digest: hdDE39Vl/IdzIzhVFgdhPA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/serial.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: POOxMlVBQqR0ROWsKgk9vh2fhck=
+MD5-Digest: zMXueDXSJ1v351z1dv3qkQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/system.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: MFsr+1V5+OfdBzLMHMzoljdc1KU=
+MD5-Digest: X/dmWGIYY5/CFI4eu4+YCg==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/cirrus-logic-490x100.imageset/cirrus-logic-490x100.jpg
+Digest-Algorithms: SHA MD5
+SHA-Digest: mBjsf0MB7LDGHxn7qLI05VsiyqU=
+MD5-Digest: nVXv0WWW7G737nFwpacNOw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/serial.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: LW0EYrZDdi7K2eU19Rx2lM1meHE=
+MD5-Digest: nija0ov6d65xg2f4fsNiog==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/system.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: awj/ENnkzi/xipPHUlhHNK2LOmQ=
+MD5-Digest: 7JtKifVtNDbJwavfdh2nIA==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/info.imageset/Contents.json
+Digest-Algorithms: SHA MD5
+SHA-Digest: +g39rYUSd0/gFaUGC30S960E6B0=
+MD5-Digest: hIxbO2YYNouEuekvEX6WwQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/TAGS_Filelist.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: wz8c0ZBh7utvW3+XR977sT7dLOs=
+MD5-Digest: VigwRjzy6STzFyqkXsAWJg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/Debug/stm8l10x_LAM_init.lkf
+Digest-Algorithms: SHA MD5
+SHA-Digest: 3lxfslTUEGhEV8Bi9svA8u3j7FI=
+MD5-Digest: SFifUxEYBSro+Yng02R/sQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/project.wed
+Digest-Algorithms: SHA MD5
+SHA-Digest: vhpNtwOiJZOQ11cljuaReaKxeKs=
+MD5-Digest: lEJsJnQMKHY83wNAPsBs4A==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-40@2x-1.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: dafSrmcmVQHRhQeH89vOERwU5EU=
+MD5-Digest: 4dWgj1eDpN/DmM2Vn2rqxw==
+
+Name: CRD42L42-MFi/SLA.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: KNxvKFQPOQ49gppHnRt9TYSRYzc=
+MD5-Digest: CAxNHBtAbK4Yz8M9ejRIpw==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_flash.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: c0NmQ+je8MON26Mi1shHx/D/a3Y=
+MD5-Digest: 7MMEDzOp/m9fZE1yPbNmrg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/readme.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: Wi3GzZw79KSEe60+tWXO8JymlR4=
+MD5-Digest: JgnpzIiyN2KsoHO/QKIK9A==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/TAGS.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: lG98cWFe18eF2RRtqMrk6fEXSHk=
+MD5-Digest: 6FMh3UXYMTANwpK/Os3tcg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/stm8l10x_Programmer/stm8l10x_STVP.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: Rv2yne5AmKVMzp0lfi8k8Uyy9yU=
+MD5-Digest: /Dl7QTZv9Tc35uFNbvEUPg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/packet.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: STRqjYbMfs94FrwGP0ze1Sm0y9k=
+MD5-Digest: Hh/SvCptmiUTo2W0/9x7XA==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_spi.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: J0vvXsmozoVY3DIqBL8dg2Zkfk0=
+MD5-Digest: xciBRb93D3MqK4G0Bn92mg==
+
+Name: CRD42L42-MFi/PCB/CRD42L42-MFi_Rev_A2_sch.pdf
+Digest-Algorithms: SHA MD5
+SHA-Digest: xpZw/FjSa8t7IB6lfsBKt6eaGSE=
+MD5-Digest: oTMmhVYqthpTU0F/qaOquQ==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-60@2x.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: Z0hZp50FUWN2QTvx3WmU9NjpQus=
+MD5-Digest: Y9QXp9cwRSglzkLLdWDaNw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/packet.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: R4c2qXH+OLe5vB5noYK5ldg+7wA=
+MD5-Digest: 8OXah95SQZd8/+XFbomROg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/project.wdb
+Digest-Algorithms: SHA MD5
+SHA-Digest: NvldSBS0ex0eyuN/LQhCAbA+xVs=
+MD5-Digest: IjbaZAzaQ0LGGYv2jYxVlA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8l10x.dep
+Digest-Algorithms: SHA MD5
+SHA-Digest: hsQ2RQAcR0muUh91BVFlBruORTc=
+MD5-Digest: p86G7Or0xtOfjDTpn2YI8Q==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8l10x.pdb
+Digest-Algorithms: SHA MD5
+SHA-Digest: sM7ix39h8R6p5+LhOBiTMwK1QJo=
+MD5-Digest: 5vt4+zf8pw5/CdgkYvihqg==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/Release_Notes.html
+Digest-Algorithms: SHA MD5
+SHA-Digest: K3P/ymMbNzfsPq3L+VLhafeR4+0=
+MD5-Digest: Ho6CKb/9EhICX+3pDd1nqA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8l10x_Programmer/stm8l10x_STVP_OPTION BYTE.hex
+Digest-Algorithms: SHA MD5
+SHA-Digest: hrjQhPdmPeicHwoSeK6Rbabsi0Y=
+MD5-Digest: 2vP6eRVJ5kfx335MUSCaHw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/stm8l10x_conf.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: o0+50q0qPbYDUe7DhiOnAZF3nv0=
+MD5-Digest: nv6UqjKv/4ykC86pMhdtJA==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_beep.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: uLpcFQkepypv02mARqTrOxdEV20=
+MD5-Digest: mg7ejGNspNBNOh3w3tFjFg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/TAGS_Filelist.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: L3dYjnONzzzvi1yuDAugwyt4ZYg=
+MD5-Digest: ojqEgcMq2PXAhLc3rbNWng==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/Debug/stm8l10x_fw.lkf
+Digest-Algorithms: SHA MD5
+SHA-Digest: uzUzU06rm28Vi/WNtg6KtPKZGjQ=
+MD5-Digest: OrENz9Q3MSECOPHt8I0DuA==
+
+Name: CRD42L42-MFi/kit ReadMe.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: 2FFEPp0KN/qmo9TOEd8vK2TMwt0=
+MD5-Digest: ft89ImLbwZkyE74+eFet4Q==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-83.5@2x.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: TmavabQ5gdIlMlPvYMohPBbI41E=
+MD5-Digest: ikQDEZDFS7j5V7/jydNQVA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/MFC8D5B.tmp
+Digest-Algorithms: SHA MD5
+SHA-Digest: Y78KFe6Lxyct/2M8MRjKSOFe+vs=
+MD5-Digest: EKUEdmN7D2grXW+IQYpDvw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/TAGS_Filelist.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: Ea3WhKcYTif+1choZZPIzhXoJTI=
+MD5-Digest: FBz/4QCDmTJPbPrcpm275g==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/Release/stm8l10x_bootloader.lkf
+Digest-Algorithms: SHA MD5
+SHA-Digest: Rm/MNCR6leUAh360BP+YKm9Jd1I=
+MD5-Digest: ksoHkqWkFMGhKvDVnpR7mQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/main.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: BnOo4mO3sGtdMxqS3EYwMu5Is0Q=
+MD5-Digest: JvWk5qMJ6DJyDcc/4MibuA==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_usart.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: q09MomEtH2rEneC+mf99RkKas/E=
+MD5-Digest: gndSfPwJHG9f4Z+Y91nysA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/main.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: b9F4bLfAGeX2eU9aXHrOVZ8dICA=
+MD5-Digest: eWCIXHKQCC9dCBS3xajOhg==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_tim4.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: B3KXOKkHHzmSanOVtDguU9NftI4=
+MD5-Digest: 7Fjbk73d9EwssBF2ryAwMw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/stm8l10x_Programmer/stm8l10x_STVP_OPTION BYTE.hex
+Digest-Algorithms: SHA MD5
+SHA-Digest: hrjQhPdmPeicHwoSeK6Rbabsi0Y=
+MD5-Digest: 2vP6eRVJ5kfx335MUSCaHw==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Assets.xcassets/AppIcon.appiconset/Icon-76@2x.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: /x8qL5Pu5IMfOuKYiDNyYsICgsI=
+MD5-Digest: 9JbiY0qzl9FlEjkZI1MdBA==
+
+Name: CRD42L42-MFi/MCU Firmware/ReadMe.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: EwUll9OdzkKzo79lAsDV0sb96oQ=
+MD5-Digest: T+1iemPu8IkteEC++oNXkw==
+
+Name: CRD42L42-MFi/MCU Firmware/CRD42L42-MFi-FW.stw
+Digest-Algorithms: SHA MD5
+SHA-Digest: BJAckoAkdKmI95NQ2FKzhS7/ggM=
+MD5-Digest: w7ylCtnf9upEKqU5EvRV1w==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/stm8l10x.dep
+Digest-Algorithms: SHA MD5
+SHA-Digest: nLZv6ry5FIPEWFVPZn+yaxvlUlI=
+MD5-Digest: Viwk1HB/9nWl2zbLfUD8XQ==
+
+Name: CRD42L42-MFi/PCB/CDB42L42-MFi_Rev_B_PL.pdf
+Digest-Algorithms: SHA MD5
+SHA-Digest: bzi1nJZwOdkPLMK2EjdI7+sSf8I=
+MD5-Digest: eiRdZLjBUUbUaTK5p5H/Uw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_bootloader/Debug/stm8l10x_bootloader.s19
+Digest-Algorithms: SHA MD5
+SHA-Digest: nImCFP3IyAn/WGUxYiZeC8gdahY=
+MD5-Digest: wVc+J/QXz/13feGX93Ca+w==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/project.stw
+Digest-Algorithms: SHA MD5
+SHA-Digest: O05cUzlbqqklHlwGx8cYQbuQ1rU=
+MD5-Digest: 6OqkbxZnLp2d71/+q109qA==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/stm8l10x_conf.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: o0+50q0qPbYDUe7DhiOnAZF3nv0=
+MD5-Digest: nv6UqjKv/4ykC86pMhdtJA==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_tim2.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: nWWB68nDr8qyfTv3hzzfQJK+Jh8=
+MD5-Digest: V3Vg8cidPXy9l7S7c9o38g==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/stm8_interrupt_vector.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: +H0IN+3IlqKF9fxNAKGRn+3pHV0=
+MD5-Digest: CzY9HAH7Ezyshc3HrOCM9A==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/src/stm8l10x_iwdg.c
+Digest-Algorithms: SHA MD5
+SHA-Digest: 3etvM2UyjXN/CMd4IumDAi7bmH8=
+MD5-Digest: Wz3n9MplO1QztDjSBWO/HQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_fw/STVD/Cosmic/stm8l10x.pdb
+Digest-Algorithms: SHA MD5
+SHA-Digest: La7Fh/oDGc10oW+Dfxr+TjpZUkY=
+MD5-Digest: By2MIXUF6YNb8AD5FAUxyg==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/Debug/stm8l10x_LAM_init_test.lkf
+Digest-Algorithms: SHA MD5
+SHA-Digest: 0jgiZH4BT1n9Fg5QubDkmn9H3gY=
+MD5-Digest: t0ebYSKV8LaLaxuWsCqqSQ==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8l10x_Programmer/stm8l10x_STVP.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: nuTZacbEVnnD0BIK23LggZQ7yM8=
+MD5-Digest: 7L0w6a9CxANWVtbdj5Ulxw==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/packet.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: r1MMNsvzSvJizEnRNRtr5LSNQmc=
+MD5-Digest: aw9iRWmIa69SYMoRyjWQOw==
+
+Name: CRD42L42-MFi/iOS Application/CRD42L42-MFi-Demo/CRD42L42-MFi-Demo/Base.lproj/LaunchScreen.storyboard
+Digest-Algorithms: SHA MD5
+SHA-Digest: d7yqtCM1Ut7EZeDs//dEAhaJ1d8=
+MD5-Digest: NIfooJmZ3mGMLnHAdRs81A==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init_test/STVD/Cosmic/stm8l10x.stp
+Digest-Algorithms: SHA MD5
+SHA-Digest: IsWt+M9rqmyc1VHj5uvy/tHm63A=
+MD5-Digest: fy3zJ+YqnO3XQ+qVjiIQaA==
+
+Name: CRD42L42-MFi/MCU Firmware/Libraries/STM8L10x_StdPeriph_Driver/inc/stm8l10x_rst.h
+Digest-Algorithms: SHA MD5
+SHA-Digest: dTIvlW3LgnQVN0uo9mpIJwJh9pI=
+MD5-Digest: Fc+kPRG2SRM4VUldalkp1Q==
+
+Name: CRD42L42-MFi/MCU Firmware/STM8L10x_LAM_init/STVD/Cosmic/Debug/stm8l10x_LAM_init.s19
+Digest-Algorithms: SHA MD5
+SHA-Digest: vbHQUiuxi+MfA8B8DJO9moS1UN4=
+MD5-Digest: Ji4MDR7Pmwcz+7t7d2gfSw==
+
+Name: JExpress/jexuninstall.ico
+Digest-Algorithms: SHA MD5
+SHA-Digest: Rmpam1nPMo8StkbdmvjevxS4nVg=
+MD5-Digest: Xy3r93UEKpKlsKxOQxSLHg==
+
+Name: JExpress/jexuninstall.icns
+Digest-Algorithms: SHA MD5
+SHA-Digest: gZ7PXT1+GlSIzVNKADn5uB56YC8=
+MD5-Digest: C3nGEICMml5SiGWOndUvCA==
+
+Name: JExpress/jexuninstall.png
+Digest-Algorithms: SHA MD5
+SHA-Digest: QdOu86Usv1PPPP47ztFd44IYUS4=
+MD5-Digest: BLUC03+eeBzKavLvDkahkQ==
+
+Name: JExpress/uninstaller/JExpressUninstaller.jar
+Digest-Algorithms: SHA MD5
+SHA-Digest: rChgcsLTF4RbhuFov1asOpnlmmo=
+MD5-Digest: VShKfYT6wD07uO8B6YplFQ==
+
+Name: JExpress/version.txt
+Digest-Algorithms: SHA MD5
+SHA-Digest: nzNQjKfHY+dIqAiCoDzSWCqj1a4=
+MD5-Digest: 6XKc5swipGW9V17yXye+eg==
+

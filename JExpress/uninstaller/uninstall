@@ -1,0 +1,8 @@
+title	MFi_CRD42L42
+customclasses	
+delpropstorage	MFi_CRD42L42
+delfile	[$AppDir]/uninstall
+deltree	[$AppDir]/Uninstall.app
+delfile	[$AppDir]/.DS_Store
+delmanifest	[$AppDir]
+deldirifempty	[$AppDir]

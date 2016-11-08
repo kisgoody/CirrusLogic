@@ -1,0 +1,17 @@
+[Last Settings]
+Hardware=RLINK
+PROTOCOL=SWIM
+Port=USB
+DEVICE=STM8L101x3
+Verify after programming=1
+Blank check before programming (when available)=0
+Erase device memory before programming (when available)=1
+Unlock protection before a programming cycle=1
+[PROGRAM MEMORY]
+Count=1
+File0=Debug\stm8l10x_LAM_init_test.s19
+ProgramEvenIfBlank=0
+[OPTION BYTE]
+Count=1
+File0=C:\Users\vkulikov\workshop\Reed\CRD42L42-MFi\MCU Firmware\STM8L10x_LAM_init_test\STVD\Cosmic\stm8l10x_LAM_init_test_Programmer\stm8l10x_LAM_init_test_STVP_OPTION BYTE.hex
+ProgramEvenIfBlank=0

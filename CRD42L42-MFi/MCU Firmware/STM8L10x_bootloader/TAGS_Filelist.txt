@@ -1,0 +1,16 @@
+..\..\libraries\stm8l10x_stdperiph_driver\src\stm8l10x_clk.c
+..\..\libraries\stm8l10x_stdperiph_driver\src\stm8l10x_flash.c
+..\..\libraries\stm8l10x_stdperiph_driver\src\stm8l10x_gpio.c
+..\..\libraries\stm8l10x_stdperiph_driver\src\stm8l10x_usart.c
+main.c
+stm8_interrupt_vector.c
+..\..\libraries\stm8l10x_stdperiph_driver\inc\stm8l10x.h
+..\..\libraries\stm8l10x_stdperiph_driver\inc\stm8l10x_clk.h
+..\..\libraries\stm8l10x_stdperiph_driver\inc\stm8l10x_flash.h
+..\..\libraries\stm8l10x_stdperiph_driver\inc\stm8l10x_gpio.h
+..\..\libraries\stm8l10x_stdperiph_driver\inc\stm8l10x_rst.h
+..\..\libraries\stm8l10x_stdperiph_driver\inc\stm8l10x_usart.h
+main.h
+stm8l10x_conf.h
+..\..\..\..\cosmic\32k_compilers\cxstm8\hstm8\mods0.h
+..\..\libraries\stm8l10x_stdperiph_driver\inc\stm8l10x_tim3.h

@@ -1,0 +1,6 @@
+#version
+#Mon Apr 11 17:05:28 CDT 2016
+webSite=www.cirrus.com
+packageName=MFi_CRD42L42
+packageVersion=1.1
+packageCopyright=Copyright \u00A9 2016 Cirrus Logic Inc.

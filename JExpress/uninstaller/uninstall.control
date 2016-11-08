@@ -1,0 +1,7 @@
+#Uninstaller Properties
+#Mon Oct 24 13:45:15 CST 2016
+silentUninstall=false
+lookAndFeelInterface=Native
+promptUserBeforeUninstalling=true
+clickFreeUninstaller=false
+showFrame=true
